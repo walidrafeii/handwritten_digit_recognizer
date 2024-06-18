@@ -1,0 +1,8 @@
+.venv/*
+.vscode/*
+
+*.csv
+*.swp
+
+.DS_Store
+*~
